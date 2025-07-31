@@ -1,4 +1,4 @@
-# Docker Secrets Manager for PHP
+# Secrets Manager for PHP
 
 A robust PHP package for managing Docker secrets and environment variables with caching, flexible configuration, and a clean API.
 
